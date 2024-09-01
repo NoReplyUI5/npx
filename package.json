@@ -1,0 +1,14 @@
+{
+  "name": "npx",
+  "version": "1.0.0",
+  "description": "Some useful script's",
+  "bin": {
+    "cleanup": "./clean-up-storage.sh"
+  },
+  "scripts": {
+    "start": "bash"
+  },
+  "keywords": [],
+  "author": "NoReplyUI5",
+  "license": "MIT"
+}
