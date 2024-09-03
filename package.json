@@ -1,7 +1,7 @@
 {
   "name": "npx",
   "version": "1.0.0",
-  "description": "Some useful script's",
+  "description": "Some useful scripts",
   "bin": {
     "cleanup": "./script/boost/clean-up-storage.sh",
     "nvm-install": "./script/install/nvm.sh"
