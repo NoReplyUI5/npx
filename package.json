@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Some useful script's",
   "bin": {
-    "cleanup": "./script/clean-up-storage.sh"
+    "cleanup": "./script/boost/clean-up-storage.sh",
+    "nvm-install": "./script/install/nvm.sh"
   },
   "scripts": {
     "start": "bash"
