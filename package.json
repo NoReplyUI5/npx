@@ -1,10 +1,10 @@
 {
-  "name": "npx",
+  "name": "mx-npx",
   "version": "1.0.0",
   "description": "Some useful scripts",
   "bin": {
     "cleanup": "./script/boost/clean-up-storage.sh",
-    "nvm-install": "./script/install/nvm.sh"
+    "test": "./script/dev/test-script.sh"
   },
   "scripts": {
     "start": "bash"
